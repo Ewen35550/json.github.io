@@ -1,0 +1,52 @@
+{
+    "theme": "Naruto",
+    "nombreQuestions": 5,
+
+    "totalQuestions": [
+        {
+            "question": "Qui compose l'équipe 7 ?",
+            "proposition": [
+                "Ino, Choji, Shikamaru", 
+                "Tenten, Lee, Neji", 
+                "Hinata, Kiba, Shino"
+            ],
+            "reponse": "Naruto, Sasuke et Sakura"
+        },
+        {
+            "question": "Qui était le 4ème Hokage ?",
+            "proposition": [
+                "Hashirama Senju",
+                "Tsunade",
+                "Hiruzen Sarutobi"
+            ],
+            "reponse": "Minato"
+        },
+        {
+            "question": "Où habite Naruto ?",
+            "proposition": [
+                "Kiri",
+                "Suna",
+                "Iwa"
+            ],
+            "reponse": "Konoha"
+        },
+        {
+            "question": "Qui Sasuke veut-il tuer ?",
+            "proposition": [
+                "Naruto",
+                "Kakashi",
+                "Choji"
+            ],
+            "reponse": "Itachi"
+        },
+        {
+            "question": "Comment s'appelle le démon à queue de Naruto ?",
+            "proposition": [
+                "Sanbi",
+                "Matatabi",
+                "Yonbi"
+            ],
+            "reponse": "Kyubi"
+        }
+    ]
+}
