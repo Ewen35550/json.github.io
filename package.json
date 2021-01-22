@@ -6,10 +6,10 @@
         {
             "question": "Qui compose l'équipe 7 ?",
             "proposition": [
+                "Naruto, Sasuke et Sakura",
                 "Ino, Choji, Shikamaru", 
                 "Tenten, Lee, Neji", 
-                "Hinata, Kiba, Shino",
-                "Naruto, Sasuke et Sakura"
+                "Hinata, Kiba, Shino"
             ],
             "reponse": "Naruto, Sasuke et Sakura"
         },
