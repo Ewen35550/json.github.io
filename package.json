@@ -8,43 +8,48 @@
             "proposition": [
                 "Ino, Choji, Shikamaru", 
                 "Tenten, Lee, Neji", 
-                "Hinata, Kiba, Shino"
+                "Hinata, Kiba, Shino",
+                "Naruto, Sasuke et Sakura"
             ],
             "reponse": "Naruto, Sasuke et Sakura"
         },
         {
             "question": "Qui était le 4ème Hokage ?",
             "proposition": [
-                "Hashirama Senju",
-                "Tsunade",
-                "Hiruzen Sarutobi"
+                "Hashirama Senju", 
+                "Tsunade", 
+                "Hiruzen Sarutobi",
+                "Minato"
             ],
             "reponse": "Minato"
         },
         {
             "question": "Où habite Naruto ?",
             "proposition": [
-                "Kiri",
-                "Suna",
-                "Iwa"
+                "Kiri", 
+                "Suna", 
+                "Iwa",
+                "Konoha"
             ],
             "reponse": "Konoha"
         },
         {
             "question": "Qui Sasuke veut-il tuer ?",
             "proposition": [
-                "Naruto",
-                "Kakashi",
-                "Choji"
+                "Naruto", 
+                "Kakashi", 
+                "Choji",
+                "Itachi"
             ],
             "reponse": "Itachi"
         },
         {
             "question": "Comment s'appelle le démon à queue de Naruto ?",
             "proposition": [
-                "Sanbi",
-                "Matatabi",
-                "Yonbi"
+                "Sanbi", 
+                "Matatabi", 
+                "Yonbi",
+                "Kyubi"
             ],
             "reponse": "Kyubi"
         }
